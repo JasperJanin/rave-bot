@@ -1,0 +1,3 @@
+[submodule "lamp-controller"]
+	path = LampController
+	url = https://github.com/JasperJanin/lamp-controller
