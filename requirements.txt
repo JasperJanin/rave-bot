@@ -7,7 +7,6 @@ chardet==4.0.0
 charset-normalizer==2.0.10
 idna==3.3
 multidict==5.2.0
-py-cord==2.0.0a4766+g41b690fa
 pycodestyle==2.8.0
 python-dotenv==0.19.2
 requests==2.27.1

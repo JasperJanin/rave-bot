@@ -1,7 +1,9 @@
 # rave-bot
 i hab cool lamp
 
-Required: .env file with content:
+Required: 
+- Pycord 2, from their github
+- .env file with content:
 ```
 TOKEN="<discord bot token>"
 BRIDGE-IP="<hue bridge ip>"
